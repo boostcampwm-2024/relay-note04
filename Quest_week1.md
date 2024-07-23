@@ -23,6 +23,12 @@ J052: 1주차 미션을 하면서 과정을 정리하는 게 중요하다고 느
 ### QUEST 1 - S015  
 ✔️ 퀘스트: 주에 3회 이상산책하고 기록하기
 
+07/23(화) 산책 - 하늘 사진은 못찍었지만 고양이 사진은 찍었습니다...
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/eac17029-5e06-4743-a92a-a88c9fbb538b"> <img width="250" alt="image" src="https://github.com/user-attachments/assets/a35899ee-fb2a-4989-9b2a-6640669ffc4d">
+
+
+
 ### QUEST 2 - K004  
 ✔️ 퀘스트: 성공을 위해서가 아닌, 나의 성장을 위한 선택을 하나라도 하고 기록하기
 
