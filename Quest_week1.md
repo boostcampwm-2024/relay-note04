@@ -59,8 +59,7 @@ J052: 1주차 미션을 하면서 과정을 정리하는 게 중요하다고 느
 
 24-07-25 23:11
 오늘 과제가 너무 힘든 서브웨이 쿠키를 마구 먹었습니다~ 파이팅! 
-![KakaoTalk_20240725_231626377](https://github.com/user-attachments/assets/a754b7bc-389a-4bd1-925a-f0b6da3b53ea)
-
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/a754b7bc-389a-4bd1-925a-f0b6da3b53ea">
 
 ### QUEST 5 - J052  
 ✔️ 퀘스트: README.md를 기록할때 아래의 조건에 맞게 작성한다.
