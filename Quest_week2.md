@@ -1,5 +1,6 @@
 ## 퀘스트 선정 이유
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/e1b02261-94e4-4738-ac71-11afb2b181e5)
+
 
 
 ## 퀘스트 결과
