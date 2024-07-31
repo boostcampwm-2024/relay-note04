@@ -35,9 +35,9 @@
 
 ![image](https://github.com/user-attachments/assets/5e7829af-5c2c-42b1-baa4-ceea4fd2cade)
 
-# 소중한 주말 계획 세우기
-1. 푹 자기
-2. 가족 회식하기
-3. 모바일 영어 공부 앱으로 영어 공부하기
+-  소중한 주말 계획 세우기
+    1. 푹 자기
+    2. 가족 회식하기
+    3. 모바일 영어 공부 앱으로 영어 공부하기
 
    
