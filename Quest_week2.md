@@ -32,6 +32,7 @@
 - [x] slack random 채널에 올리기
 
 7/31(수) 19시 2분
+
 ![image](https://github.com/user-attachments/assets/5e7829af-5c2c-42b1-baa4-ceea4fd2cade)
 
 # 소중한 주말 계획 세우기
