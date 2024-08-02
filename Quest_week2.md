@@ -8,6 +8,20 @@
 ### J075 - QUEST 1  
 ✔️ 퀘스트: 주에 3회 이상산책하고 기록하기
 
+- 산책하면서 간단하게 구름 사진을 찍어보았습니다
+
+- 7/28
+  
+![IMG_1908](https://github.com/user-attachments/assets/037dfc1e-1e9c-4434-8e54-fa444f860665)
+
+- 7/29
+
+![IMG_1909](https://github.com/user-attachments/assets/a20b490a-2b52-43b9-bfa2-6d3935fb20d1)
+
+- 8/1
+
+![IMG_1911](https://github.com/user-attachments/assets/551ec732-159d-451e-81bb-fb5ba2bebabc)
+
 
 ### K056 - QUEST 2  
 ✔️ 퀘스트: 직무적 성공을 위해서가 아닌, 인격적 성장을 위한 명언을 찾아보기
