@@ -39,6 +39,8 @@
 
 ### S045 - QUEST 5 
 ✔️ 퀘스트: README.md를 기록할때 아래의 조건에 맞게 작성한다.
+- [24.08.02]
+    - https://gist.github.com/green-yoon87/93d2119a838e798c6d136ce07825148d   
 
     
 ### J076 - QUEST 6
