@@ -19,7 +19,9 @@
 
 ### J129 - QUEST 4  
 ✔️ 퀘스트: 자신이 좋아하는 가벼운 간식 또는 음료를 먹고 기록하기
-
+- [24-08-01]
+- 집 앞 카페에서 산 케이크
+<img src="https://github.com/user-attachments/assets/49b8e7a7-851c-4b75-96ae-c0f60fbd5f31" width="300" height="300"/>
 
 ### S045 - QUEST 5 
 ✔️ 퀘스트: README.md를 기록할때 아래의 조건에 맞게 작성한다.
